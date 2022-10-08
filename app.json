@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "starter-web3-apollo",
+    "slug": "starter-web3-apollo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "starter-web3-apollo"
+}
